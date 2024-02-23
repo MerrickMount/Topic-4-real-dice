@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Merrick
             int die1, die2;
             Random rnd = new Random();
             die1 = rnd.Next(1, 7);
